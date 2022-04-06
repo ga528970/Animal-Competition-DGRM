@@ -1,1 +1,2 @@
 # Animal-Competition-DGRM
+We have several animals that can be found around southern Ontario, mostly forest animals and pets. They can be categorized as pets, birds and rodents. Each animal will be given a random number from one to ten for their Intelligence, Power, Defense,  Mobility, Health, Stealth, Stamina,  Intimidation, and Resolve. We will try to add some different environments that can change the stats for the animals. 
